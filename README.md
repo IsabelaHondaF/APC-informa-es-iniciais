@@ -2,7 +2,7 @@
 
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licen%C3%A7a-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.pt-br)
 
-Guia em LaTeX para quem **nunca programou** e está entrando na disciplina de **Algoritmos de Programação e Computadores (APC)** da Universidade de Brasília (Ciência da Computação), com foco especial em estudantes 60+.
+Guia em LaTeX para quem **nunca programou** e está entrando na disciplina de **Algoritmos de Programação de Computadores (APC)** da Universidade de Brasília (Ciência da Computação), com foco especial em estudantes 60+.
 
 Escrito por **Isabela Honda**, monitora de APC. Linguagem abordada: **C99**.
 
